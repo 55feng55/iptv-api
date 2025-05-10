@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-10 06:41:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-05-10 18:41:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -8,35 +8,39 @@ CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/st
 CCTV-1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV-2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV-3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
-CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=981ddc&tk=6949f8ce7202
+CCTV-6,http://111.9.163.109:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=195738&tk=6949f8ce7202
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
 广东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=be728e&tk=6949f8ce7202
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f30e23&tk=6949f8ce7202
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
+北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 湖北卫视,http://itv.iptv1688.top:2016/itv.php?id=湖北卫视
 黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
+重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=48b028&tk=6949f8ce7202
 东方卫视,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
 东南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c1a152&tk=6949f8ce7202
-甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=fb88fb&tk=6949f8ce7202
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山东卫视,http://itv.iptv1688.top:2016/itv.php?id=山东卫视
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=1
-西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 ☘️陕西频道,#genre#
