@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 18:24:07,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+2025-10-03 06:23:06,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 
 📺央视频道,#genre#
 
