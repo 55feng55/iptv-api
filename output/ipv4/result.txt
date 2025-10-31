@@ -1,7 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-31 18:27:14,http://sh.lnott.top:880/dx46.m3u8
+2025-11-01 06:24:48,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
+CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
 📡卫视频道,#genre#
 重庆卫视,http://sh.lnott.top:880/dx46.m3u8
