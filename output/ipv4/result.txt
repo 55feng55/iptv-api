@@ -1,11 +1,15 @@
 🕘️更新时间,#genre#
-2025-11-09 18:23:37,http://sh.lnott.top:880/dx31.m3u8
+2025-11-10 06:23:29,http://sh.lnott.top:880/dx04.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
+CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://sh.lnott.top:880/dx31.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
+重庆卫视,http://sh.lnott.top:880/dx46.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+贵州卫视,http://sh.lnott.top:880/dx50.m3u8
 
 ☘️陕西频道,#genre#
