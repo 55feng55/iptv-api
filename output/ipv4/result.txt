@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-08 06:23:54,http://sh.lnott.top:880/dx04.m3u8
+2025-12-08 18:31:16,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://sh.lnott.top:880/dx04.m3u8
 CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
