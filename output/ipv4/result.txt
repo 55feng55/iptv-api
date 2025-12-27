@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-27 18:26:50,https://60.191.56.186:8888/hls/16/index.m3u8
+2025-12-28 06:25:19,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 
 📺央视频道,#genre#
-CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
 📡卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
