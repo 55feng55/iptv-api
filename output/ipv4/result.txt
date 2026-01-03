@@ -1,17 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-03 06:27:19,http://27.41.245.32:801/hls/6/index.m3u8
+2026-01-03 18:27:24,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://27.41.245.32:801/hls/6/index.m3u8
-CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
-CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
-江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
-江西卫视,http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
 
 ☘️陕西频道,#genre#
