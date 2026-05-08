@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2026-05-08 07:04:03,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+2026-05-08 19:23:25,url
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
