@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-24 21:55:00,http://121.57.88.206:898/hls/3/index.m3u8
+2026-10-25 08:08:38,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
@@ -11,7 +11,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-安徽卫视,http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
